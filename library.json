@@ -1,0 +1,19 @@
+{
+	"name": "JpegCamera",
+	"version": "0.1.0",
+	"frameworks": "arduino",
+	"platforms": "atmelavr",
+	"keywords": "LinkSprite, JPEG, Camera, Color",
+	"description": "This library suqpports LinkSprite JPEG Color Camera.",
+	"repository":
+	{
+		"type": "git",
+		"url": "https://github.com/tutertlob/JpegCamera-arduino.git"
+	},
+	"include":
+	[
+		"*.cpp",
+		"*.h",
+		"examples"
+	]
+}
