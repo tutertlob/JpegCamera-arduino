@@ -1,2 +1,2 @@
 # JpegCamera-arduino
-This repository contains an Arduino library supporting the LinkSprite JPEG color camera.
+An arduino library for LinkSprite JPEG color cameras.
